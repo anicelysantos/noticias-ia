@@ -10,7 +10,7 @@ st.set_page_config(layout="wide")
 st.markdown("""
     <div style="text-align: left;">
         <h1>NoticIAs</h1>
-        <h4 style="margin-top: -10px; color: grey;">Projeto desenvolvido por Nome da Autora ou Grupo</h4>
+        <h4 style="margin-top: -10px; color: grey;">Projeto desenvolvido por Anicely Santos com curadoria de notícias do IP.Rec.</h4>
     </div>
 """, unsafe_allow_html=True)
 
